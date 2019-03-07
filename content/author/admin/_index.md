@@ -47,7 +47,7 @@ user_groups = ["Researchers", "Visitors"]
   course = "BSc in Economics"
   institution = "London School of Economics"
   year = 2015
- 
+
 [[education.courses]]
   course = "International Baccalaureate Programme"
   institution = "International School of Prague"
@@ -77,4 +77,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Ayrat is a strategy consultant specialialising in commercial applications of game theory and mechanism design. He is an expert for process consulting, developing and applying sourcing and negotiation strategies (auction design) for national and international OEMs in various industries based on latest scientific findings in economics and game theory.
+Ayrat is a strategy consultant specialising in commercial applications of game theory and mechanism design. He is an expert in developing and applying negotiation strategies using sourcing and game theory principles for  international OEMs.
