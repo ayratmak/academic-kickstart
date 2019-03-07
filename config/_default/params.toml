@@ -65,7 +65,7 @@ email = "ayrat.mak@gmail.com"
 #contact_links = [
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
