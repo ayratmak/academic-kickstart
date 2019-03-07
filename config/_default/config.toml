@@ -15,7 +15,7 @@ baseurl = "/"
 # To display a copyright symbol, type `&copy;`.
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-135898009-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -63,4 +63,4 @@ preserveTaxonomyNames = true
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
-  author = "authors"
+  author = "Ayrat Maksyutov"
