@@ -3,7 +3,6 @@ title: "Djokovic - a game theory expert?"
 date: 2019-03-07T21:13:12Z
 draft: false
 output:
-    html_document:
     toc: true
     theme: united
 ---
@@ -48,5 +47,4 @@ Gilovich, T., Tversky, A., Vallone, R. (1985), The Hot Hand in Basketball: On th
 
 Gauriot, R. and Page, L. (2014), Does success breed success? A quasi-experiment on strategic momentum in dynamic contests. QuBE Working Papers 028, QUT Business School.
 
-Walker, M. and Wooders, J. (2001), Minimax Play at Wimbledon. American Economic Review, 91 (5): 1521-1538.
----
+Walker, M. and Wooders, J. (2001), Minimax Play at Wimbledon. American Economic Review, 91 (5): 1521-153.
