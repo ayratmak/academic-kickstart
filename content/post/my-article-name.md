@@ -3,7 +3,6 @@ title: "Djokovic - a game theory expert?"
 date: 2019-03-07T21:13:12Z
 draft: false
 ---
-{{% toc %}}
 
 {{< figure library="1" src="tennis.jpg" >}}
 
