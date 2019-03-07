@@ -1,4 +1,3 @@
-+++
 ---
 title: "Djokovic - a game theory expert?"
 date: 2019-03-07T21:13:12Z
@@ -6,7 +5,6 @@ draft: false
 tags: = ["tennis"]
 categories = ["Game Theory"]
 ---
-+++
 
 Professional tennis is probably one of the toughest sports. As the game has shifted into the realm of high speeds and relentless rallies, equipment has gone through immense developments and players are reaching the peaks of their physical form, the hidden key to winning may now lie with game theory. Economic research over the last few years suggests that the likes of Djokovic, Nadal and Federer not only spend hours mastering their serve, forehand and backhand, but also seem to spend a significant amount of time honing their game theory skills. Game theory looks at decision-making in circumstances where a competitive analysis is needed to set the optimal course of action for a player. Using a large collection of data aggregated through the Hawk-Eye technology, a computerised ball-tracking system, economists now have an opportunity to test game theory assumptions in tennis.
 
