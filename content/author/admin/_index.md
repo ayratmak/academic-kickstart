@@ -77,4 +77,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Ayrat is a strategy consultant specialising in commercial applications of game theory and mechanism design. He is an expert in developing and applying negotiation strategies using sourcing and game theory principles for  international OEMs.
+Ayrat is a strategy consultant specialising in commercial applications of game theory and mechanism design. He is an expert in developing and applying negotiation strategies using game theory principles for  international OEMs.
