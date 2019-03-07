@@ -2,6 +2,10 @@
 title: "Djokovic - a game theory expert?"
 date: 2019-03-07T21:13:12Z
 draft: false
+output:
+    html_document:
+    toc: true
+    theme: united
 ---
 
 {{< figure library="1" src="tennis.jpg" >}}
@@ -34,7 +38,7 @@ The economists find significant proof of momentum effect for male tennis players
 
 The athletic performance of the tennis players can be easily seen. The decision aspect of the game, however, is less obvious, but by means of large volumes of data backed up by economics, we can get a glimpse into the importance of game theory in tennis. Next time you watch a grand slam match, do pay attention to the way Djokovic applies game theory on court.
 
-
+---
 
 _SOURCES:_
 
@@ -45,3 +49,4 @@ Gilovich, T., Tversky, A., Vallone, R. (1985), The Hot Hand in Basketball: On th
 Gauriot, R. and Page, L. (2014), Does success breed success? A quasi-experiment on strategic momentum in dynamic contests. QuBE Working Papers 028, QUT Business School.
 
 Walker, M. and Wooders, J. (2001), Minimax Play at Wimbledon. American Economic Review, 91 (5): 1521-1538.
+---
