@@ -12,8 +12,7 @@ title = "AM"
 baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type
-`&copy;`
+# To display a copyright symbol, type `&copy;`
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-135898009-1"
@@ -61,7 +60,7 @@ preserveTaxonomyNames = true
 
 # Taxonomies.
 [taxonomies]
-  tag = "tags"
-  category = "categories"
+  tag = ["game theory","development","R","tennis"]
+  category = "economics"
   publication_type = "publication_types"
   author = "Ayrat Maksyutov"
