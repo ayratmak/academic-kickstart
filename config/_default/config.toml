@@ -60,7 +60,7 @@ preserveTaxonomyNames = true
 
 # Taxonomies.
 [taxonomies]
-  tag = ["game theory","development","R","tennis"]
+  tag = "game theory"
   category = "economics"
   publication_type = "publication_types"
   author = "Ayrat Maksyutov"
