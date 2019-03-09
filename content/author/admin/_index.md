@@ -19,7 +19,7 @@ organisations = [ { name = "London School of Economics", url = "" } ]
 bio = "Expert for commercial applications of game theory, industrial economics, mechanism & market design."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "ayrat.mak@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
@@ -27,7 +27,6 @@ interests = [
   "Mechanism Design",
   "Industrial Economics",
   "Behavioural Economics",  
-  "Artificial Intelligence",
   "Computational Linguistics",
   "Data Visualisation",
   "Machine Learning",
