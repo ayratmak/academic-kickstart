@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Work Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -27,7 +27,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Structuring bilateral negotiations
   * Applying game theory to business problems
   * Designing auctions for large-scale procurement projects
@@ -38,8 +38,8 @@ date_format = "January 2006"
   company = "Barclays"
   company_url = ""
   location = "London, UK"
-  date_start = "2016-07-10"
-  date_end = "2016-10-14"
+  date_start = "2017-07-10"
+  date_end = "2017-10-14"
 
 [[experience]]
   title = "Analyst"
