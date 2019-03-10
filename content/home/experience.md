@@ -26,10 +26,9 @@ date_format = "January 2006"
   date_start = "2017-10-16"
   date_end = ""
   description = """
-  Responsibilities include:
 
-  * Structuring bilateral negotiations
   * Applying game theory to business problems
+  * Structuring bilateral negotiations
   * Designing auctions for large-scale procurement projects
   """
 
