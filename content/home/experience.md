@@ -25,9 +25,10 @@ date_format = "January 2006"
   location = "London, UK"
   date_start = "2017-10-16"
   date_end = ""
-  description = """ <br>
-  * Applying game theory to business problems
+  description = """
+  Responsibilities include:
   * Structuring bilateral negotiations
+  * Applying game theory to business problems
   * Designing auctions for large-scale procurement projects
   """
 
