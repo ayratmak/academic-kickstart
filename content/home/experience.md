@@ -25,12 +25,13 @@ date_format = "January 2006"
   location = "London, UK"
   date_start = "2017-10-16"
   date_end = ""
-  description = """
+  description = "" "
   Responsibilities include:
-    * Structuring bilateral negotiations
-    * Applying game theory to business problems
-    * Designing auctions for large-scale procurement projects
-  """
+
+  * Structuring bilateral negotiations
+  * Applying game theory to business problems
+  * Designing auctions for large-scale procurement projects
+  "
 
 [[experience]]
   title = "Risk Analyst"
