@@ -4,7 +4,7 @@ widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Work Experience"
-subtitle = "Current & Past Roles"
+subtitle = "Current & Past roles"
 
 # Order that this section will appear in.
 weight = 40
@@ -27,9 +27,9 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  * Structuring bilateral negotiations
-  * Applying game theory to business problems
-  * Designing auctions for large-scale procurement projects
+    * Structuring bilateral negotiations
+    * Applying game theory to business problems
+    * Designing auctions for large-scale procurement projects
   """
 
 [[experience]]
