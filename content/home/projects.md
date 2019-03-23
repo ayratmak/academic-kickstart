@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Data Visualisation"
+# subtitle = "Data Visualisation"
 
 [content]
   # Page type to display. E.g. project.
@@ -25,11 +25,16 @@ subtitle = "Data Visualisation"
   #   tag = "*"
 
    [[content.filter_button]]
-     name = "US energy consumption"
+     name = "JS"
+     tag = "Data Visualisation"
+
+    [[content.filter_button]]
+     name = "R"
      tag = "Data Visualisation"
 
    [[content.filter_button]]
      name = "Other"
+
      tag = "Demo"
 
 [design]
@@ -52,11 +57,11 @@ subtitle = "Data Visualisation"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "navy"
+  # color = "navy"
 
   # Background gradient.
-   gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
 
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
