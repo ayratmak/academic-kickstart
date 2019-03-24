@@ -77,6 +77,11 @@ user_groups = ["Researchers", "Visitors"]
     icon_pack = "fab"
     link = "https://medium.com/@ayrat.mak/"
 
+    [[social]]
+      icon = "500px"
+      icon_pack = "fab"
+      link = "https://500px.com/ayratmak"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]

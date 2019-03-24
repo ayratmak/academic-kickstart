@@ -20,11 +20,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Intro to Python"
+  title = "Intermediate R"
   organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/00bda805a9fba35690c962bd6dcde7768add7856"
+  date_start = "2016-12-11"
   description = ""
 
+  [[item]]
+    title = "Intermediate Python for Data Science"
+    organization = "DataCamp"
+    certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/f677d077b12806c4b3a91aba219c405de525a4f4"
+    date_start = "2016-12-13"
+    description = ""
 +++
