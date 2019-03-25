@@ -53,13 +53,15 @@ url_poster = ""
 Below is a visualisation for happiness levels within the region with points scaled by GDP per capita.
 
 
-{{< figure src="Rplot09.png" title="" >}}
+{{< figure src="Rplot17.png" title="" >}}
+
+## Europe breakdown
 
 ## Happiness scores in Asia & Pacific
 
 Let's now turn to Asia and review where individual countries stand with regards to happiness levels within the region.
 
-{{< figure src="Rplot07.png" title="" >}}
+{{< figure src="Rplot18.png" title="" >}}
 
 ## Happiness scores in Africa
 
