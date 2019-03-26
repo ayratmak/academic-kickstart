@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Work Experience"
 subtitle = "Current & Past roles"
@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "London, UK"
   date_start = "2017-10-16"
   date_end = ""
-  description = "" 
+  description = ""
 
 [[experience]]
   title = "Risk Analyst"
