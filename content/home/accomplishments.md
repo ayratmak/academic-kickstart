@@ -1,7 +1,7 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Certifications"
 subtitle = "Courses"
@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# [[item]]
+[[item]]
   title = "Intermediate R"
   organization = "DataCamp"
   certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/00bda805a9fba35690c962bd6dcde7768add7856"
   date_start = "2016-12-11"
   description = ""
 
-# [[item]]
+[[item]]
     title = "Intermediate Python for Data Science"
     organization = "DataCamp"
     certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/f677d077b12806c4b3a91aba219c405de525a4f4"
