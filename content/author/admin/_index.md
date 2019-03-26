@@ -6,23 +6,23 @@ name = "AM"
 authors = ["admin"]
 
 # Is this the primary user of the site?
-# superuser = true
+superuser = true
 
 # Role/position
-# role = "Strategy Consultant"
+role = "Strategy Consultant"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-# organisations = [ { name = "London School of Economics", url = "" } ]
+organisations = [ { name = "London School of Economics", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-# bio = "Expert for commercial applications of game theory, industrial economics, mechanism & market design."
+bio = "Expert for commercial applications of game theory, industrial economics, mechanism & market design."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email = "ayrat.mak@gmail.com"
+email = "ayrat.mak@gmail.com"
 
 # List (academic) interests or hobbies
-# interests = [
+interests = [
   "Game Theory",
   "Mechanism Design",
   "Industrial Economics",
@@ -34,20 +34,20 @@ authors = ["admin"]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups = ["Researchers", "Visitors"]
+user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-# [[education.courses]]
+[[education.courses]]
   course = "MSc in Economics and Management"
   institution = "London School of Economics"
   year = 2017
 
-# [[education.courses]]
+[[education.courses]]
   course = "BSc in Economics"
   institution = "London School of Economics"
   year = 2015
 
-# [[education.courses]]
+[[education.courses]]
   course = "International Baccalaureate Programme"
   institution = "International School of Prague"
   year = 2012
@@ -57,17 +57,17 @@ authors = ["admin"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# [[social]]
+[[social]]
   icon = "envelope"
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:ayrat.mak@gmail.com"
 
-# [[social]]
+[[social]]
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/ayratmaksyutov/"
 
-# [[social]]
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/ayratmak"
