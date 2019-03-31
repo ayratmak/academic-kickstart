@@ -8,7 +8,7 @@ draft = true
 tags = ["FDI"]
 
 # Project summary to display on homepage.
-summary = "Study to evaluate the cultural effects on FDI flows in the developed and developing countries of the world"
+summary = ""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

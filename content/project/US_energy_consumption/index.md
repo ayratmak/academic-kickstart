@@ -1,14 +1,14 @@
 +++
 title = "US Energy Consumption"
 date = 2019-03-24T11:48:42+01:00
-draft = true
+draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["energy","R"]
 
 # Project summary to display on homepage.
-summary = "Project summary to evaluate the impact of..."
+summary = ""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

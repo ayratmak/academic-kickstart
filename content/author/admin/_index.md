@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "AM"
+name = "Ayrat M"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -90,3 +90,5 @@ user_groups = ["Researchers", "Visitors"]
 #  link = "files/cv.pdf"
 
 +++
+
+Ayrat is a strategy consultant specialising in commercial applications of game theory and mechanism design. He is an expert in developing and applying negotiation strategies using game theory principles for  international OEMs.
