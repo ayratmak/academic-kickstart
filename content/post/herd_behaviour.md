@@ -1,9 +1,9 @@
----
++++
 title: "Don't follow the herd?"
 date: 2019-10-26T21:13:12Z
 draft: false
 tags: ["herd behaviour","game theory","negative externality","heuristics","online reviews"]
----
++++
 
 {{< figure library="1" src="tennis.jpg" >}}
 
