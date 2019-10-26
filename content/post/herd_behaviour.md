@@ -1,18 +1,23 @@
 ---
-title: "Don't follow the herd?"
+title: "Don't follow the herd"
+subtitle: "How can herd behaviour influence our choices?"
 date: 2019-03-07T21:13:12Z
 draft: false
 tags: ["herd behaviour","game theory","negative externality","heuristics","online reviews"]
 ---
+{{< figure library="1" src="sheep.png" >}}
 
 _In the wildlife animals move together as a group and herding behaviour is not uncommon. Humans are not that different and can build up group momentum following just one or two leaders. As it turns out this herd mentality and behaviour of humans can be observed in all walks of life. Every hour of the day we are bombarded by constant need to make decisions and most of the time these decisions are affected by what those around us are doing. The decisions that we take range from simple ones- "which restaurant should I go to?", to the more complex of "which assets do I invest my savings in?". When making those decisions people are often prone to irrationality with herd behaviour being a prime example of this._
 
-_Researchers have shown that we are heavily impacted by the information available in the immediate surroundings. Herding behaviour is so common to humans that it affects all aspects of life.
+## IMPACT OF INFORMATION
+
+Researchers have shown that we are heavily impacted by the information available in the immediate surroundings. Herding behaviour is so common to humans that it affects all aspects of life.
 	§ Fertility choices (e.g. how many children does one have) suggests that we are heavily influenced by what others in the same area are doing
 	§ Voters are impacted by the opinion polls released before elections, resulting in a vote that mirrors the direction of the polls.
 	§ Rush for cryptocurrencies fuelled by crowd's investments without understanding the underlying value of the asset or not using available private information.
 	§ The rise of artificial intelligence, big data and machine learning indicates that a disproportionate proportion of the population is engaged in working on topics that are currently "hot"
-As social animals, humans are known to go with the flow._
+As social animals, humans are known to go with the flow.
+
 
 ## HERD BEHAVIOUR
 
@@ -22,6 +27,8 @@ In an attempt to understand the rationale behind the decision making influenced 
 ## RESTAURANT EXAMPLE
 
 Imagine a situation where you find yourself in front of two restaurants A and B that seem equally good. That night there are three other individuals that each have a private information for which restaurant is better. In a situation where three of these individuals prefer restaurant A and only 1 prefers restaurant B, it should be straightforward that restaurant A will end up with most customers. Now imagine a situation where that one person with a private signal for restaurant A (customer 1 in the illustration) arrives first and takes a sit in restaurant A motivated by own private information. The second person to arrive will then have two available signals, his own private information that B is better and the signal from the first person that A is better. Banerjee also assumed that restaurant A is marginally favoured a priori, leading to the second person choosing A over B despite own information signal. This then means that any subsequent customer that arrives will choose restaurant A, ignoring own signal, resulting in a herd mentality, as illustrated in the picture below. Everyone then ends up at restaurant A despite B being certainly better.
+
+{{< figure library="1" src="herding.png" >}}
 
 If in the presented situation the second person however decided to follow her own signal, the third would have known that signal of the second is B and would certainly choose B along with all the subsequent individuals. In such a situation, the second person's choice to ignore her own information and join the herd has imposed a negative externality* on the rest of the individuals.
 
