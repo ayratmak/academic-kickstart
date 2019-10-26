@@ -30,6 +30,7 @@ interests = [
   "Computational Linguistics",
   "Data Visualisation",
   "Machine Learning",
+  "User Experience/Interface",
 ]
 
 # Organizational groups that you belong to (for People widget)
