@@ -5,9 +5,9 @@ draft: false
 tags: ["herd behaviour","game theory","negative externality","heuristics","online reviews"]
 ---
 
-_In the wildlife animals move together as a group and herding behaviour is not uncommon. Humans are not that different and can build up group momentum following just one or two leaders. As it turns out this herd mentality and behaviour of humans can be observed in all walks of life. Every hour of the day we are bombarded by constant need to make decisions and most of the time these decisions are affected by what those around us are doing. The decisions that we take range from simple ones- "which restaurant should I go to?", to the more complex of "which assets do I invest my savings in?". When making those decisions people are often prone to irrationality with herd behaviour being a prime example of this.  
+_In the wildlife animals move together as a group and herding behaviour is not uncommon. Humans are not that different and can build up group momentum following just one or two leaders. As it turns out this herd mentality and behaviour of humans can be observed in all walks of life. Every hour of the day we are bombarded by constant need to make decisions and most of the time these decisions are affected by what those around us are doing. The decisions that we take range from simple ones- "which restaurant should I go to?", to the more complex of "which assets do I invest my savings in?". When making those decisions people are often prone to irrationality with herd behaviour being a prime example of this._
 
-Researchers have shown that we are heavily impacted by the information available in the immediate surroundings. Herding behaviour is so common to humans that it affects all aspects of life.
+_Researchers have shown that we are heavily impacted by the information available in the immediate surroundings. Herding behaviour is so common to humans that it affects all aspects of life.
 	§ Fertility choices (e.g. how many children does one have) suggests that we are heavily influenced by what others in the same area are doing
 	§ Voters are impacted by the opinion polls released before elections, resulting in a vote that mirrors the direction of the polls.
 	§ Rush for cryptocurrencies fuelled by crowd's investments without understanding the underlying value of the asset or not using available private information.
