@@ -1,11 +1,9 @@
-+++
+---
 title: "Don't follow the herd?"
 date: 2019-10-26T21:13:12Z
 draft: false
 tags: ["herd behaviour","game theory","negative externality","heuristics","online reviews"]
-+++
-
-{{< figure library="1" src="tennis.jpg" >}}
+---
 
 _In the wildlife animals move together as a group and herding behaviour is not uncommon. Humans are not that different and can build up group momentum following just one or two leaders. As it turns out this herd mentality and behaviour of humans can be observed in all walks of life. Every hour of the day we are bombarded by constant need to make decisions and most of the time these decisions are affected by what those around us are doing. The decisions that we take range from simple ones- "which restaurant should I go to?", to the more complex of "which assets do I invest my savings in?". When making those decisions people are often prone to irrationality with herd behaviour being a prime example of this.  
 
