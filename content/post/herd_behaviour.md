@@ -12,10 +12,12 @@ _In the wildlife animals move together as a group and herding behaviour is not u
 ## IMPACT OF INFORMATION
 
 Researchers have shown that we are heavily impacted by the information available in the immediate surroundings. Herding behaviour is so common to humans that it affects all aspects of life.
-	§ Fertility choices (e.g. how many children does one have) suggests that we are heavily influenced by what others in the same area are doing
-	§ Voters are impacted by the opinion polls released before elections, resulting in a vote that mirrors the direction of the polls.
-	§ Rush for cryptocurrencies fuelled by crowd's investments without understanding the underlying value of the asset or not using available private information.
-	§ The rise of artificial intelligence, big data and machine learning indicates that a disproportionate proportion of the population is engaged in working on topics that are currently "hot"
+
+- Fertility choices (e.g. how many children does one have) suggests that we are heavily influenced by what others in the same area are doing
+- Voters are impacted by the opinion polls released before elections, resulting in a vote that mirrors the direction of the polls.
+- Rush for cryptocurrencies fuelled by crowd's investments without understanding the underlying value of the asset or not using available private information.
+- The rise of artificial intelligence, big data and machine learning indicates that a disproportionate proportion of the population is engaged in working on topics that are currently "hot"
+
 As social animals, humans are known to go with the flow.
 
 
