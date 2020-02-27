@@ -27,10 +27,11 @@ interests = [
   "Mechanism Design",
   "Industrial Economics",
   "Behavioural Economics",  
-  "Computational Linguistics",
+  "Bilateral Negotiations",
   "Data Visualisation",
-  "Machine Learning",
+  "Carbon Budgeting",
   "User Experience/Interface",
+  "Category Commodity Management"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -92,4 +93,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Ayrat is a strategy consultant specialising in commercial applications of game theory and mechanism design. He is an expert in developing and applying negotiation strategies using game theory principles for  international OEMs.
+Ayrat is a strategy consultant specialising in commercial applications of game theory and mechanism design. He is an expert in applying game theory and wider economics-related principles to improve business strategy. Ayrat has worked across industries on a variety of projects, including combinatorial auctions, carbon budgeting, and bilateral negotiations.
