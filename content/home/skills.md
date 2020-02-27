@@ -16,21 +16,22 @@ weight = 30
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-pie"
-  icon_pack = "fas"
-  name = "Data visualisation"
-  description = "Advanced data visualisation in R"
-
-[[feature]]
   icon = "dice"
   icon_pack = "fas"
   name = "Game Theory"
   description = "Applying Game Theory insight to business problems"  
 
 [[feature]]
-  icon = "robot"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Machine Learning"
-  description = "Using advanced unsupervised algorithms to solve business problems"
+  name = "Behavioural Economics"
+  description = "Using behavioural economics concepts to solve business problems"
+
+  [[feature]]
+    icon = "calendar-alt"
+    icon_pack = "fas"
+    name = "Project Management"
+    description = "Organising teams to optimise project structure and performance"
+
 
 +++

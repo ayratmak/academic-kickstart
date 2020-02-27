@@ -30,8 +30,7 @@ interests = [
   "Bilateral Negotiations",
   "Data Visualisation",
   "Carbon Budgeting",
-  "User Experience/Interface",
-  "Category Commodity Management"
+  "User Experience/Interface"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -68,11 +67,6 @@ user_groups = ["Researchers", "Visitors"]
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/ayratmaksyutov/"
-
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/ayratmak"
 
   [[social]]
     icon = "medium-m"
