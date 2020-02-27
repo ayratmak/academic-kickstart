@@ -4,13 +4,13 @@ date: 2020-02-17T21:13:12Z
 draft: false
 tags: ["Google Ads","US elections","online auctions","Donald Trump","Michael Bloomberg"]
 ---
-{{< figure library="1" src="google.jpg" >}}
+{{< figure library="1" src="google.png" >}}
 
 ## Michael Bloomberg is spending millions on Google Ad auctions
 
 If you have recently googled "impeachment" in the US, you would see Michael Bloomberg’s presidential campaign ad as the top result. Bloomberg has been spending immense amounts of money acquiring the spots for the top keywords in Google Ads to promote his candidacy in the US presidential race. This is part of a larger trend – paying for keyword advertisements has become popular in the modern political campaigning and is seen by many as a major tactic to increase the number of supporters.
 
-{{< figure library="1" src="impeachment.jpg" >}}
+{{< figure library="1" src="impeachment.png" >}}
 
 Combining online search with advertising is a lucrative market that allows to directly target the audience the advertiser is interested in. Although the bidding for keywords in a Google Ad auction might seem like an easy task, there are complex decisions that need to be weighed in by the presidential candidates. Using game theory to understand the auction mechanism and its subtleties is key to determine the optimal bidding strategy.
 
@@ -35,7 +35,7 @@ In the presidential election case, the valuations are not very clear as there ar
 
 To encourage bidders to reveal their true valuations and make it a dominant strategy is a key issue facing the search engines. In the currently adopted version of the generalised second-price auction for online search ads, the truth-telling mechanism may not be an equilibrium.  
 
-{{< figure library="1" src="candidates.jpg" >}}
+{{< figure library="1" src="candidates.png" >}}
 
 Imagine a situation where Bernie Sanders, Elizabeth Warren, and Joe Biden - the other top three candidates from the Democratic party - are interested in the same keyword as Michael Bloomberg. They may then be competing for "impeachment" together with Bloomberg. Knowing that Bloomberg has the deepest pockets, all three understand that it would not be possible to outbid him in an auction and they chose to compete for the second and third slots - b and c - instead. As the campaign budgets are publicly available, Sanders may recon that Biden cannot afford to compete for the third place slot with him and would try to place the minimum bet to outbid him.
 
@@ -52,7 +52,5 @@ The presented example is of course a simplified version of the real-world case. 
 ## Game Theory can help optimise bidder strategies in online auctions
 
 Understanding valuations and selecting strategies for search auctions can be difficult and needs to be optimised on a case by case basis. The above example has shown that even in the second-price auction there are situations where truthful bidding is not the one leading to the greatest payoffs. Game Theory in general is an effective tool that can be used to determine effective bidding strategies in online auctions. The real life is more complex with the variety of factors to be considered going beyond estimating bidder valuations. It may be the case that there are deals between advertisers to avoid bidding for the same keywords or there might be strong externalities from placing online ads, implying that private benefits to one candidate's advertisement is different from wider social benefits. The strategies are dynamic and need to be adjusted in the complex environments with other factors at play.
-
-{{< figure library="1" src="patrol2.png" >}}
 
 ---

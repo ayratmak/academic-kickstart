@@ -18,13 +18,23 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Consultant"
+  company = "TWS Partners"
+  company_url = ""
+  location = "London, UK"
+  date_start = "2019-07-16"
+  date_end = ""
+  description = ""
+
 [[experience]]
   title = "Consultant"
   company = "TWS Partners"
   company_url = ""
   location = "London, UK"
   date_start = "2017-10-16"
-  date_end = ""
+  date_end = "2019-07-15"
   description = ""
 
 [[experience]]
