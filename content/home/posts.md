@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Recent Posts"
-subtitle = "Game Theory articles"
+subtitle = "Exploring ideas through economic perspective"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
