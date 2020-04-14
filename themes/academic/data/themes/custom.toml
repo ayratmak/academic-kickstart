@@ -5,17 +5,17 @@ name = "custom"
 light = true
 
 # Primary
-primary = "#66bff2"
+primary = "#2894b2"
 primary_light = "#92d7ff"
 primary_dark = "#1a93d9"
 
 # Menu
-menu_primary = "#92d7ff"
+menu_primary = "#2894b2"
 menu_text = "#fff"
-menu_text_active = "#1a93d9"
-menu_title = "#fff"
+menu_text_active = "#fff"
+menu_title = "#2b2b2b"
 
 # Backgrounds
 background = "#fff"
 home_section_odd = "#fff"
-home_section_even = "#66bff2"
+home_section_even = "#2894b2"
